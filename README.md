@@ -8,5 +8,5 @@
 ## Features
  - Simple website
 - Easy to use
-   ## Author
+## Author
 - Student Name
