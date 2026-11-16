@@ -1,5 +1,6 @@
 # My First Project
-## About\nThis is my first GitHub project.
+## About
+-This is my first GitHub project.
 ## Technologies Used
 - HTML
 - CSS
