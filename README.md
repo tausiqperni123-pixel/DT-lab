@@ -1,6 +1,6 @@
 # My First Project
 ## About\nThis is my first GitHub project.
-n## Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
